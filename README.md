@@ -1,7 +1,8 @@
 # Selenium Grid Optimizer
 
 **Student Name:** Pranav Gaikwad  
-**Course:** DevOps (CSE3253)  
+**Course:** DevOps
+**Reg No. : 23FE10CSE00176**
 **Project Category:** Testing  
 **Project Title:** Selenium Grid Optimizer – Optimize Selenium Grid Resource Allocation  
 
